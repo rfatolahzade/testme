@@ -1,2 +1,8 @@
 #!/bin/bash
-echo 'Hi'
+
+
+# run echo command
+
+echo "Hello world"
+
+
